@@ -13,7 +13,7 @@ namespace MyApp
             // sum = num1 + num2;
             // // string output = String.Format("The sum of {0} and {1} is: " + (num1, num2, sum));
             // Console.WriteLine("The sum is : " + sum);
-            Console.Write("Enter number to compute multiplication table : ");
+            Console.Write("Enter a number to compute multiplication table : ");
             int x = int.Parse(Console.ReadLine());
             for (int i = 1; i <= 10; i++) {
                 Console.WriteLine(x + "x" + i + "=" + (x*i));
