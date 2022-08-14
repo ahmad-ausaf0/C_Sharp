@@ -1,0 +1,13 @@
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.exe
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.deps.json
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.runtimeconfig.json
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.runtimeconfig.dev.json
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.dll
+F:\C#\C_Sharp\Practice_C#\PrimeN\bin\Debug\netcoreapp3.1\PrimeN.pdb
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.csprojAssemblyReference.cache
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.AssemblyInfoInputs.cache
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.AssemblyInfo.cs
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.csproj.CoreCompileInputs.cache
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.dll
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.pdb
+F:\C#\C_Sharp\Practice_C#\PrimeN\obj\Debug\netcoreapp3.1\PrimeN.genruntimeconfig.cache
