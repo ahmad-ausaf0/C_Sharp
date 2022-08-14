@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\C#\\C_Sharp\\Database\\StudentCollegeDb\\StudentCollegeDb.csproj": {}
+    "F:\\C#\\C_Sharp\\Database\\ListData\\ListData.csproj": {}
   },
   "projects": {
-    "F:\\C#\\C_Sharp\\Database\\StudentCollegeDb\\StudentCollegeDb.csproj": {
+    "F:\\C#\\C_Sharp\\Database\\ListData\\ListData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\C#\\C_Sharp\\Database\\StudentCollegeDb\\StudentCollegeDb.csproj",
-        "projectName": "StudentCollegeDb",
-        "projectPath": "F:\\C#\\C_Sharp\\Database\\StudentCollegeDb\\StudentCollegeDb.csproj",
+        "projectUniqueName": "F:\\C#\\C_Sharp\\Database\\ListData\\ListData.csproj",
+        "projectName": "ListData",
+        "projectPath": "F:\\C#\\C_Sharp\\Database\\ListData\\ListData.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "F:\\C#\\C_Sharp\\Database\\StudentCollegeDb\\obj\\",
+        "outputPath": "F:\\C#\\C_Sharp\\Database\\ListData\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config"
